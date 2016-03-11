@@ -46,7 +46,7 @@ Policy Center:: 4GB Memory and 200GB Storage
 Network/Wireless Sensor:: 2GB Memory and 4GB Storage
 
 === Download Software
-Genian NAC software download provide here: http://www.genians.com/download
+Genian NAC software download provide here: TBA
 
 === Installation Media
 Genian NAC software provide by bootable ISO image. you need CD-ROM drive and CD-Writer, Or USB memory stick for creating bootable USB memory.
